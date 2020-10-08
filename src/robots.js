@@ -1,9 +1,9 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Shoean Boram',
+    username: 'oeoe',
+    email: 'Sincere@wwrwl.bizw'
   },
   {
     id: 2,
@@ -58,5 +58,35 @@ export const robots = [
     name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 11,
+    name: 'Boss Man',
+    username: 'boss.man000',
+    email: 'boo.Padwww@woo.biz'
+  },
+  {
+    id: 12,
+    name: 'Alcatraz',
+    username: 'Bowwsw.qsanton',
+    email: 'Hey.sssberg@sarina.biz'
+  },
+  {
+    id: 13,
+    name: 'Magic Joker',
+    username: 'Miah.joke',
+    email: 'mohkoej@karina.biz'
+  },
+  {
+    id: 14,
+    name: 'Snipe Valley',
+    username: 'ispy.you',
+    email: 'not.fishy@goggle.biz'
+  },
+  {
+    id: 15,
+    name: 'Scarlette Johanneson',
+    username: 'Black.wood',
+    email: 'avenger6969@stone.infinity'
   }
 ];
