@@ -5,9 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background: linear-gradient(to left, rgb(4, 99, 99) 50%, darkblue 100%);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  font-family: SEGA LOGO FONT;
+  font-weight: 300;
+  color: rgb(1, 204, 211);
+}
+

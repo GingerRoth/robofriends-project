@@ -1,62 +1,128 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Mr Who',
+    username: 'oeoe',
+    email: 'Sincere@wswrwl.bizw'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
+    name: 'Robo Corps',
+    username: 'Ronette',
     email: 'Shanna@melissa.tv'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Weapon 11',
+    username: 'wolveie',
+    email: 'whereis@wolveriene.net'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'Mark 420',
+    username: 'imiron22',
+    email: 'am.i.ironman@nope.org'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Vision 0.5',
+    username: 'ulreon',
+    email: 'notUltron@really.ca'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: 'Mrs. De Hoist',
+    username: 'Monkeyo_Corkery',
+    email: 'mooy_Dach@jasper.info'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    name: 'Kurtis Connors',
+    username: 'KK.kkk.k',
+    email: 'Connorrr@billy.biz'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    name: 'Nicholas Copernicus V',
+    username: 'Planet_Round',
+    email: 'Sunis@far.boo'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
-    username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    name: 'Codename 46',
+    username: 'not47',
+    email: 'nopeman_Iaint47@ica.io'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
+    name: 'Cleuque 2.0',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 11,
+    name: 'Boss Man',
+    username: 'boss.man000',
+    email: 'boo.Padwww@woo.biz'
+  },
+  {
+    id: 12,
+    name: 'Alcatraz',
+    username: 'Bowwsw.qsanton',
+    email: 'Hey.sssberg@sarina.biz'
+  },
+  {
+    id: 13,
+    name: 'Magic Joker',
+    username: 'Miah.joke',
+    email: 'mohkoej@karina.biz'
+  },
+  {
+    id: 14,
+    name: 'Snipe Valley',
+    username: 'ispy.you',
+    email: 'not.fishy@goggle.biz'
+  },
+  {
+    id: 15,
+    name: 'Scarlette NoChanceSon',
+    username: 'Black.wood',
+    email: 'avenger.scjo@stone.infinity'
+  },
+  {
+    id: 16,
+    name: 'Mark 0',
+    username: 'imdiron22',
+    email: 'u.r.ironman@nope.org'
+  },
+  {
+    id: 17,
+    name: 'Mark !3',
+    username: 'imiron22',
+    email: 'am.i.ironman.mark3@nope.org'
+  },
+  {
+    id: 18,
+    name: 'Mark 99',
+    username: 'imiron222',
+    email: 'am.i.ironman@dope.org'
+  },
+  {
+    id: 19,
+    name: 'Soap McTavis\'nt',
+    username: 'imiron22',
+    email: 'cod.i.sas@nope.uk'
+  },
+  {
+    id: 20,
+    name: 'Cpt. Priced',
+    username: 'expensiverice',
+    email: 'cod.price.nope@nope.uk'
+  },
+  {
+    id: 21,
+    name: 'Spider-manned',
+    username: 'spoody',
+    email: 'okspidey@gohome.bye'
   }
 ];
