@@ -124,5 +124,59 @@ export const robots = [
     name: 'Spider-manned',
     username: 'spoody',
     email: 'okspidey@gohome.bye'
+  },
+  {
+    id: 22,
+    name: 'Iron-Spidered',
+    username: 'spoody2',
+    email: 'okspidey1@gohome.bye'
+  },
+  {
+    id: 23,
+    name: 'Mr.Doc.Strange',
+    username: 'strange',
+    email: 'okdr@gohome.bye'
+  },
+  {
+    id: 24,
+    name: 'Woring-machine',
+    username: 'wm2',
+    email: 'iron2free@gohome.bye'
+  },
+  {
+    id: 25,
+    name: 'Jacked-Sparrow',
+    username: 'sparrow',
+    email: 'sparrow@jackman.pirate'
+  },
+  {
+    id: 26,
+    name: 'Vision 2.0',
+    username: 'visavis',
+    email: 'vision@notjarvis.com'
+  },
+  {
+    id: 27,
+    name: 'Tor',
+    username: 'tHor',
+    email: 'electric@gohome.bye'
+  },
+  {
+    id: 28,
+    name: 'Ant-men',
+    username: 'anty',
+    email: 'okant@gohome.bye'
+  },
+  {
+    id: 29,
+    name: 'Howkeyed',
+    username: 'hawked2',
+    email: 'notarrow@gohome.bye'
+  },
+  {
+    id: 30,
+    name: 'Thanos',
+    username: 'snapU',
+    email: 'snapitnow@stoned.com'
   }
 ];
